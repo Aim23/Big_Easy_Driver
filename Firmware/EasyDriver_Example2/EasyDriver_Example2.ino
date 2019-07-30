@@ -1,5 +1,5 @@
 // Example2 code for Brian Schmalz's Easy Driver Example page
-// http://www.schmalzhaus.com/EasyDriver/EasyDriverExamples.html
+// http://www.schmalzhaus.com/EasyDriver/Examples/EasyDriverExamples.html
 
 int Distance = 0;  // Record the number of steps we've taken
 
