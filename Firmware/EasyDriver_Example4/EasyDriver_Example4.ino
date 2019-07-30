@@ -1,5 +1,5 @@
 // Example4 code for Brian Schmalz's Easy Driver Example page
-// http://www.schmalzhaus.com/EasyDriver/EasyDriverExamples.html
+// http://www.schmalzhaus.com/EasyDriver/Examples/EasyDriverExamples.html
 
 #include <AccelStepper.h>
 
